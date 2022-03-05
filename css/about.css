@@ -1,0 +1,28 @@
+.about-desc {
+  color: #999;
+}
+.about-image {
+  border-top: 4px solid #0cc;
+  padding-top: 60px;
+}
+.about-desc-mainline {
+  color: #0cc;
+  margin: 45px 0px;
+}
+.about-card {
+  color: #999;
+  margin-top: 50px;
+  padding-bottom: 150px;
+  border-bottom: 4px solid #0cc;
+}
+.about-card-title {
+  color: #0cc;
+}
+
+.about-background,
+.about-teamwork,
+.about-volumn {
+  margin-right: 1px;
+  background-color: rgb(245, 239, 239);
+  padding: 40px 30px;
+}

@@ -1,0 +1,139 @@
+.main .video {
+  border-top: 5px solid #0cc;
+  padding-top: 60px;
+}
+
+.main .spost-header {
+  margin: 50px 0px;
+  color: #999;
+}
+.main .spost-header .spost-title {
+  color: #0cc;
+  font-weight: 450;
+}
+.main .spost-body-1 {
+  color: #999;
+}
+.main .spost-body-2 {
+  color: #999;
+}
+.main .type {
+  color: #0cc;
+  font-weight: 450;
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 25px 0px;
+}
+.main .comment .comment-title {
+  color: #0cc;
+  font-weight: 450;
+  border-bottom: 4px solid #0cc;
+}
+.main .comment .comment-body {
+  margin-top: 75px;
+  display: flex;
+  flex-direction: row;
+}
+.main .comment .comment-avatar-icon {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+.main .comment-avatar {
+  color: #0cc;
+  margin-right: 25px;
+}
+.main .comment-word {
+  color: #999;
+}
+.main .reply-date {
+  color: #0cc;
+  display: flex;
+  justify-content: space-between;
+}
+.main .comment-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main .date-2 {
+  display: flex;
+  flex-direction: row-reverse;
+  color: #0cc;
+}
+.main .comment-block-1 {
+  padding-bottom: 40px;
+  border-bottom: 1px solid #999;
+}
+.main .comment-block-2 {
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 45px;
+}
+.main .your-comment .your-comment-title {
+  color: #0cc;
+}
+
+.main .comment-input .input {
+  margin: 15px 0px;
+  height: 40px;
+  width: 375px;
+}
+.main .comment-input .input-0 {
+  height: 300px;
+  margin: 15px 0px;
+  width: 375px;
+}
+.input,
+.input-0 {
+  border: 1px solid #0cc;
+}
+.input:hover,
+.input-0:hover {
+  border: 1px solid #0cc;
+}
+.submit-button {
+  width: 125px;
+  height: 50px;
+  background-color: #0cc;
+  border: none;
+  border-radius: 10%;
+  color: white;
+}
+.comment-input {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 150px;
+  flex-direction: row;
+}
+.category {
+  margin-top: 58px;
+  border-top: 4px solid #0cc;
+  color: #0cc;
+  padding-top: 12px;
+}
+.category-title {
+  margin-bottom: 30px;
+}
+.category-list {
+  padding-bottom: 100px;
+  border-bottom: 4px solid #0cc;
+}
+.related-post {
+  color: #0cc;
+}
+.related-post-title {
+  margin-top: 15px;
+}
+
+.main .related-post-detail .image {
+  width: 100%;
+  margin: 20px 0px;
+}
+.submit {
+  display: flex;
+  flex-direction: row-reverse;
+}
