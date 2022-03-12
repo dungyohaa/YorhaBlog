@@ -26,3 +26,10 @@
   background-color: rgb(245, 239, 239);
   padding: 40px 30px;
 }
+.about-profile {
+  margin-top: 56px;
+  color:#999
+}
+.profile-title {
+  color: #0cc;
+}

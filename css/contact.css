@@ -6,5 +6,37 @@
   border-top: 4px solid #0cc;
 }
 .contact-title {
-  border-top: 40px
+  border-top: 40px;
+}
+.input {
+  width: 100%;
+}
+.input {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.social-icon {
+  background-color: #0cc;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 25px;
+  margin-right: 20px;
+}
+.all-contact-social-icon {
+  display: flex;
+  flex-direction: row;
+}
+.contact-title {
+  color: #0cc;
+  margin: 40px 0px;
+}
+.contact-1 {
+  color: #0cc;
+}
+.input-box   {
+  border: 1px solid #0cc;
 }
